@@ -2,7 +2,7 @@
 (Some example text is used here. Stick to the same titles but fill in your own information)
 
 
-![Machine thumbnail](/machine-template/blob/main/Images/Injection-thumbnail.jpg?raw=true)
+![Machine thumbnail](/Images/Injection-thumbnail.jpg?raw=true)
 
 
 # What is this machine
@@ -41,6 +41,6 @@ Explain the current status of the machines, its just a drawing, you build it onc
 
 
 # Additional how-tos and information
-[How to on machines](https://community.preciousplastic.com/how-to)
-[Building guidelines](https://community.preciousplastic.com/how-to)
-[Whitepaper on drilling](https://community.preciousplastic.com/how-to)
+- [How to on machines](https://community.preciousplastic.com/how-to)
+- [Building guidelines](https://community.preciousplastic.com/how-to)
+- [Whitepaper on drilling](https://community.preciousplastic.com/how-to)
