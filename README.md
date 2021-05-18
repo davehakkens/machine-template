@@ -20,7 +20,7 @@ Little explantation about the machine, what it does. Where it came from. Based o
 | ⚙️ Power (W) | .. kW|
 | 🔌 Voltage | ..V|
 | ⚡️ AMP | ..A|
-| Difficulty level | ..A [?](https://community.preciousplastic.com/academy/guides/machine-inventory))|
+| Difficulty level | .. [levels explained](https://community.preciousplastic.com/academy/guides/machine-inventory))|
 | (option))| add more specs if needed|
 
 
