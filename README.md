@@ -1,28 +1,35 @@
 # Template for adding machines
 (Some example text is used here. Stick to the same titles but fill in your own information)
 
+
+![Machine thumbnail](/Images/injection-image.png)
+
+
 # What is this machine
 Little explantation about the machine, what it does. Where it came from. Based on other machines?
 
 
 # Specs
-    - Type:  “double axe shredder”
-    - Model: “3.6
-    - Weight: “200kg
-    - Dimensions:”  1205 x 550 x 1512 mm”
-    - Voltage: 380V
-    - AMP: 16A
 
-# Difficulty level 
-The difficulty level of the machine is 1. (difficulty [levels explained](https://community.preciousplastic.com/academy/guides/machine-inventory)) Describe a bit the tools are needed and what is the most complex part of building this machine
+| Specification    |     |
+|----------|-------------|
+| 📓 Type   |     Single Screw   |
+| 💎 Model   |     1.0   |
+| ⚖️ Weight (inc frame) |   ... kg   |
+| 📦 Dimension   | .. x .. x .. mm|
+| ⚙️ Power (W) | .. kW|
+| 🔌 Voltage | ..V|
+| ⚡️ AMP | ..A|
+| (option))| add more specs if needed|
+
+
+# Difficulty level
+The difficulty level of the machine is 1. (difficulty [levels explained](https://community.preciousplastic.com/academy/guides/machine-inventory)) Describe the tools needed to build the machine and what is the most complex part of building. It's a good moment to point out the challenges that are coming with the build.
 
 # Current Status
-The machine has been build, setup in our project in Hawai and run for a few months. We are still gathering feedback and testing it more.
+Explain the current status of the machines, its just a drawing, you build it once, made a few of them? Is it as you like or got some feedback on it? For instance " The machine has been build, setup in our project in Hawai and run for a few months. We noted a few issues below and are still gathering more feedback."
 
 
-# Identified issues 
-- axe breaks
-- useres 
-
-
-#License?
+# Identified issues
+- Axe breaks (example)
+- Motor can overheat in hot settings (example)
