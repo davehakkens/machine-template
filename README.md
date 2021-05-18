@@ -2,7 +2,7 @@
 (Some example text is used here. Stick to the same titles but fill in your own information)
 
 
-![Machine thumbnail](/machine-template/blob/main/Images/injection-image.png)
+![Machine thumbnail](/machine-template/blob/main/Images/Injection-thumbnail.jpg?raw=true)
 
 
 # What is this machine
