@@ -13,7 +13,7 @@ Little explantation about the machine, what it does. Where it came from. Based o
 
 | Specification    |     |
 |----------|-------------|
-| 📓 Type   |     Single Screw   |
+| 📓 Type   |   Single Barrel   |
 | 💎 Model   |     1.0   |
 | ⚖️ Weight (inc frame) |   ... kg   |
 | 📦 Dimension   | .. x .. x .. mm|
